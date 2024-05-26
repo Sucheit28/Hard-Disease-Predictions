@@ -1,2 +1,2 @@
-# Hard Disease Predictions
+# Heart Disease Predictions
  A model that uses ML to predict diseases. 
